@@ -1,0 +1,31 @@
+.rassmlar{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 5%;
+}
+
+.ras{
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    margin: 5%;
+}
+
+.rass{
+    width: 300px;
+    display: flex;
+    justify-content: space-between;
+    flex-direction: column;
+    margin: 5%;
+}
+
+.href{
+    text-decoration: none;
+    color: #000;
+    transition: 0.2s;
+}
+.href:hover{
+    transform: translateY(-8%);
+    color: rgba(250, 74, 12, 1);
+}

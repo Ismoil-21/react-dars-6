@@ -1,0 +1,27 @@
+.container {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 20px 0;
+}
+
+.links {
+  display: flex;
+  gap: 100px;
+}
+
+.link {
+  text-decoration: none;
+  color: #000;
+  font-size: 18px;
+  transition: 0.2s;
+}
+.link:hover {
+  transform: translateY(-8%);
+  color: #fa4a0c;
+}
