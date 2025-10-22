@@ -15,7 +15,7 @@ const Footer = () => {
             <img width={150} src={internet} alt="" />
           </div>
           <a className="href" href="">
-            Copywright 2020 Bella Onoje.com
+            Copywright 2020 Bella Onojie.com
           </a>
         </div>
       </div>
